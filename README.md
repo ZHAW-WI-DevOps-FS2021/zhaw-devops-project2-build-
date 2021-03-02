@@ -5,4 +5,6 @@ Dieses Repository zeigt den Einsatz von Gradle als Build-Automation-Tool in eine
 
 ## Resultat
 
+Ausführen der Anwendung mit ```gradle run``` führt zu folgender Ausgabe
+
 ![image](https://user-images.githubusercontent.com/60733270/109631896-ba646180-7b46-11eb-9329-282a7ad5cfb1.png)
