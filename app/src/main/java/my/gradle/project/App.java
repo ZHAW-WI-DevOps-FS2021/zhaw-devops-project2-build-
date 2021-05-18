@@ -24,6 +24,7 @@ public class App {
             figletRenderer = new FigletRenderer(FigFontResources.loadFigFontResource(FigFontResources.BIG_FLF));
             System.out.println(figletRenderer.renderText("DevOps rocks"));
             System.out.println(figletRenderer.renderText("und unser Team auch :)"));
+            System.out.println(figletRenderer.renderText("Aller guten Dinge sind drei."));
         } catch (IOException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
